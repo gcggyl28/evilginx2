@@ -20,3 +20,4 @@
 - OS:
 - evilginx2 version:
 - Go version:
+- Deployment method (local/VPS/Docker):
