@@ -21,3 +21,8 @@
 - evilginx2 version:
 - Go version:
 - Deployment method (local/VPS/Docker):
+
+**Bug Report (if applicable):**
+- Steps to reproduce:
+- Expected behavior:
+- Actual behavior:
