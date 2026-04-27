@@ -23,4 +23,4 @@
 - Feature: You can now override globally set unauthorized redirect URL per phishlet with `phishlet unauth_url <phishlet> <url>`.
 - Fixed: Disabled caching for HTML and Javascript content to make on-the-fly proxied content replacements and injections more reliable.
 - Fixed: Improved JS injection by adding `<script src"...">` references into HTML pages, instead of dumping the whole script there.
-- Fixed: Blocked requests will now redirect using javascript, instead of HTTP location header (note: typo fixed from original upstream entry).
+- Fixed: Blocked requests will now redirect using javascript, instead of HTTP location header (note: missing 'r' in original — typo fixed in this fork).
