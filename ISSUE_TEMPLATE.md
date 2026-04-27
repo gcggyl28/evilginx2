@@ -25,6 +25,7 @@
 - Go version:
 - Deployment method (local/VPS/Docker):
 - Kernel version (if Linux):
+- Architecture (amd64/arm64/etc):
 
 **Bug Report (if applicable):**
 - Steps to reproduce:
