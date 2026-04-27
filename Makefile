@@ -16,3 +16,4 @@ install: build
 clean:
 	@go clean
 	@rm -f ./build/$(TARGET)
+	@rm -rf ./build/
