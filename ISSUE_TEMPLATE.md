@@ -23,6 +23,7 @@
 - evilginx2 version:
 - Go version:
 - Deployment method (local/VPS/Docker):
+- Kernel version (if Linux):
 
 **Bug Report (if applicable):**
 - Steps to reproduce:
