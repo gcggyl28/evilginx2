@@ -17,6 +17,7 @@
 - [ ] You have described steps to reproduce the issue
 - [ ] You have checked the [README](../blob/master/README.md) and wiki for answers
 - [ ] You have tested on a clean setup to rule out local configuration issues
+- [ ] You have verified the issue is reproducible on the latest commit
 
 **Environment:**
 - OS:
