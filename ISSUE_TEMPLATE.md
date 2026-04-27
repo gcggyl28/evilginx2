@@ -15,6 +15,7 @@
 - [ ] This is a bug report or feature suggestion (not a phishlet request)
 - [ ] You have included relevant logs or error output (if applicable)
 - [ ] You have described steps to reproduce the issue
+- [ ] You have checked the [README](../blob/master/README.md) and wiki for answers
 
 **Environment:**
 - OS:
@@ -26,3 +27,8 @@
 - Steps to reproduce:
 - Expected behavior:
 - Actual behavior:
+- Error logs (paste relevant output below):
+
+```
+(paste logs here)
+```
