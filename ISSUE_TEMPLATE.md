@@ -16,6 +16,7 @@
 - [ ] You have included relevant logs or error output (if applicable)
 - [ ] You have described steps to reproduce the issue
 - [ ] You have checked the [README](../blob/master/README.md) and wiki for answers
+- [ ] You have tested on a clean setup to rule out local configuration issues
 
 **Environment:**
 - OS:
