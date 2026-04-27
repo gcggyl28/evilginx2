@@ -17,3 +17,7 @@ clean:
 	@go clean
 	@rm -f ./build/$(TARGET)
 	@rm -rf ./build/
+
+# run: convenience target to build and launch with a local phishlets directory
+run: build
+	@./build/$(TARGET) -p ./phishlets -t ./redirectors
